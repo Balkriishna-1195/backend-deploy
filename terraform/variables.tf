@@ -18,3 +18,6 @@ variable "common_tags" {
 variable "zone_name" {
   default = "balkriishna.online"
 }
+variable "app_version" {
+  
+}
